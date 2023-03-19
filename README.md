@@ -22,7 +22,9 @@ I am also a self-taught software developer and Python enthusiast who utilizes Py
 - FinCred Credit Score Rating Agency using Django Framework (In progress)
 
 ## 🛠  Tools and Technologies
-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) - ![R Studio](https://img.shields.io/badge/-R-333333?style=flat&logo=R)
+- &nbsp;
+ ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+ ![R Studio](https://img.shields.io/badge/-R-333333?style=flat&logo=R)
 
 
 
