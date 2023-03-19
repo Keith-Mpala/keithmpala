@@ -26,6 +26,25 @@ I am also a self-taught software developer and Python enthusiast who utilizes Py
  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
  ![R Studio](https://img.shields.io/badge/-R-333333?style=flat&logo=R)
 
+- &nbsp;
+ ![Django](https://img.shields.io/badge/fDjango-%23000.svg?style=flat&logo=Django&logoColor=white)
+ ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+ ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+
+- &nbsp;
+ ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+ ![NLTK](https://img.shields.io/badge/nltk-%23F7931E.svg?style=flat&logo=nltk&logoColor=white)
+ ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+ ![Keras](https://img.shields.io/badge/Keras-%23FF6F00.svg?style=flat&logo=Keras&logoColor=white)
+ ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+ ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+ ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flate&logo=anaconda&logoColor=white)
+
+- 🔧 &nbsp;
+ ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+ ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 
 
 ## 🌍 Find me on the Internet 
