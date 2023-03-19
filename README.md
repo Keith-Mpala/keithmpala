@@ -35,7 +35,7 @@ I am also a self-taught software developer and Python enthusiast who utilizes Py
 
 - &nbsp;
  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
- ![NLTK](https://img.shields.io/badge/nltk-%23F7931E.svg?style=flat&logo=nltk&logoColor=white)
+ ![NLTK](https://img.shields.io/badge/NLTK-%23F7931E.svg?style=flat&logo=NLTK&logoColor=white)
  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
  ![Keras](https://img.shields.io/badge/Keras-%23FF6F00.svg?style=flat&logo=Keras&logoColor=white)
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
