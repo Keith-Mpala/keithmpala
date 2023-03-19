@@ -48,7 +48,7 @@ I am also a self-taught software developer and Python enthusiast who utilizes Py
 
 
 ## 🌍 Find me on the Internet 
-- Publishing my latest projects to my [personal website](https://web-production-3150.up.railway.app/)
 - Published R Studio Projects to my [Rpubs](https://rpubs.com/keith_mpala)
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/keith-mpala-481a32128/)
-- 
+- More about me on [LinkedIn](https://www.linkedin.com/in/keith-mpala-481a32128/)
+- Email me at keithmpala.km@gmail.com
+
