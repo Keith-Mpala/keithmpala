@@ -42,7 +42,7 @@ I am also a self-taught software developer and Python enthusiast who utilizes Py
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flate&logo=anaconda&logoColor=white)
 
-- 🔧 &nbsp;
+- &nbsp;
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 
